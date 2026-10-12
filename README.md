@@ -131,7 +131,6 @@ These profiles are descriptive interpretations of the supplied model output. Clu
 
 ## Limitations
 
-- The dataset is synthetic and does not represent verified measurements of real cities.
 - K-Means is sensitive to feature selection, scaling, outliers, and the chosen value of K.
 - PCA compresses the feature space into two dimensions, so some information is not visible in the plot.
 - Cluster labels describe similarity patterns; they do not establish causation or an objective ranking of cities.
